@@ -1,1 +1,427 @@
-{}
+{
+  "players": [
+    {
+      "name": "Gaurav",
+      "pos": "FWD",
+      "star": 4,
+      "stamina": "Medium",
+      "ability": 72.01285714285714,
+      "form": 0.052882653061224416,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Gour",
+      "pos": "DEF",
+      "star": 3,
+      "stamina": "Low",
+      "ability": 59.980714285714285,
+      "form": -0.1605076530612245,
+      "games": 1,
+      "streak": 0,
+      "status": "active"
+    },
+    {
+      "name": "Vivek",
+      "pos": "DEF",
+      "star": 3,
+      "stamina": "Low",
+      "ability": 59.980714285714285,
+      "form": -0.1605076530612245,
+      "games": 1,
+      "streak": 0,
+      "status": "active"
+    },
+    {
+      "name": "Spandan",
+      "pos": "MID",
+      "star": 4,
+      "stamina": "Low",
+      "ability": 71.89585714285714,
+      "form": -0.8645096938775509,
+      "games": 1,
+      "streak": 0,
+      "status": "active"
+    },
+    {
+      "name": "Koustav",
+      "pos": "DEF",
+      "star": 3,
+      "stamina": "Low",
+      "ability": 60.28542857142857,
+      "form": 0.2362275510204082,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Saikat",
+      "pos": "MID",
+      "star": 4,
+      "stamina": "Medium",
+      "ability": 71.97185714285715,
+      "form": -0.6669525510204084,
+      "games": 1,
+      "streak": 0,
+      "status": "active"
+    },
+    {
+      "name": "Abhijeet",
+      "pos": "MID",
+      "star": 5,
+      "stamina": "High",
+      "ability": 86.35942857142857,
+      "form": 5.8705897959183675,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Saumittra",
+      "pos": "MID",
+      "star": 4,
+      "stamina": "Medium",
+      "ability": 71.97185714285715,
+      "form": -0.6669525510204084,
+      "games": 1,
+      "streak": 0,
+      "status": "active"
+    },
+    {
+      "name": "Rajarshi",
+      "pos": "DEF",
+      "star": 3,
+      "stamina": "Low",
+      "ability": 60.28542857142857,
+      "form": 0.2362275510204082,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Soumya",
+      "pos": "MID",
+      "star": 4,
+      "stamina": "Medium",
+      "ability": 72.66371428571429,
+      "form": 2.310809183673469,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Abhinav",
+      "pos": "DEF",
+      "star": 5,
+      "stamina": "High",
+      "ability": 85.32514285714285,
+      "form": 0.9679448979591837,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Dhabi",
+      "pos": "DEF",
+      "star": 3,
+      "stamina": "Low",
+      "ability": 60.28542857142857,
+      "form": 0.2362275510204082,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Auno",
+      "pos": "DEF",
+      "star": 4,
+      "stamina": "Medium",
+      "ability": 71.96528571428571,
+      "form": -0.2889137755102041,
+      "games": 1,
+      "streak": 0,
+      "status": "active"
+    },
+    {
+      "name": "Namit",
+      "pos": "FWD",
+      "star": 5,
+      "stamina": "High",
+      "ability": 85.62971428571429,
+      "form": 3.323408163265306,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Shivam",
+      "pos": "MID",
+      "star": 5,
+      "stamina": "High",
+      "ability": 85.05142857142857,
+      "form": 0.2126326530612243,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Vineet",
+      "pos": "MID",
+      "star": 4,
+      "stamina": "Low",
+      "ability": 72.15171428571429,
+      "form": 0.627266326530612,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Hinger",
+      "pos": "MID",
+      "star": 4,
+      "stamina": "Medium",
+      "ability": 72.15171428571429,
+      "form": 0.627266326530612,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    },
+    {
+      "name": "Harshit",
+      "pos": "FWD",
+      "star": 4,
+      "stamina": "Medium",
+      "ability": 73.09285714285714,
+      "form": 4.495025510204082,
+      "games": 1,
+      "streak": 1,
+      "status": "active"
+    }
+  ],
+  "games": [
+    {
+      "week": "Week 1",
+      "date": "2026-05-30",
+      "sa": 5,
+      "sb": 6,
+      "goals": [
+        {
+          "scorer": "Namit",
+          "assist": null
+        },
+        {
+          "scorer": "Namit",
+          "assist": null
+        },
+        {
+          "scorer": "Shivam",
+          "assist": "Hinger"
+        },
+        {
+          "scorer": "Vineet",
+          "assist": "Namit"
+        },
+        {
+          "scorer": "Gaurav",
+          "assist": null
+        },
+        {
+          "scorer": "Abhijeet",
+          "assist": "Harshit"
+        },
+        {
+          "scorer": "Harshit",
+          "assist": "Abhijeet"
+        },
+        {
+          "scorer": "Abhijeet",
+          "assist": null
+        },
+        {
+          "scorer": "Harshit",
+          "assist": null
+        },
+        {
+          "scorer": "Soumya",
+          "assist": "Abhijeet"
+        },
+        {
+          "scorer": "Soumya",
+          "assist": "Harshit"
+        }
+      ],
+      "mvpAtk": "Namit",
+      "mvpMid": "Abhijeet",
+      "mvpDef": "Abhinav",
+      "fatigue": [
+        "Hinger",
+        "Spandan",
+        "Saumittra"
+      ],
+      "arguments": [
+        "Abhijeet",
+        "Namit"
+      ],
+      "lateArrivals": [
+        "Hinger"
+      ],
+      "moments": [
+        {
+          "player": "Shivam",
+          "tag": "🚀 Worldie",
+          "note": ""
+        },
+        {
+          "player": "Harshit",
+          "tag": "🔁 Comeback Goal",
+          "note": ""
+        }
+      ],
+      "teamA": [
+        "Gaurav",
+        "Auno",
+        "Namit",
+        "Shivam",
+        "Vineet",
+        "Hinger",
+        "Gour",
+        "Vivek",
+        "Spandan"
+      ],
+      "teamB": [
+        "Abhijeet",
+        "Saumittra",
+        "Rajarshi",
+        "Soumya",
+        "Abhinav",
+        "Harshit",
+        "Koustav",
+        "Dhabi",
+        "Saikat"
+      ],
+      "ts": 1780330836517
+    }
+  ],
+  "cons": [
+    {
+      "type": "separate",
+      "players": [
+        "Gaurav",
+        "Abhijeet"
+      ],
+      "active": true
+    },
+    {
+      "type": "same",
+      "players": [
+        "Abhijeet",
+        "Saumittra",
+        "Abhinav"
+      ],
+      "active": true
+    },
+    {
+      "type": "same",
+      "players": [
+        "Namit",
+        "Hinger",
+        "Shivam"
+      ],
+      "active": true
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1780330734640,
+      "week": "Week 1",
+      "date": "2026-05-30",
+      "sz": 9,
+      "teamA": [
+        "Gaurav",
+        "Auno",
+        "Namit",
+        "Shivam",
+        "Vineet",
+        "Hinger",
+        "Gour",
+        "Vivek",
+        "Spandan"
+      ],
+      "teamB": [
+        "Abhijeet",
+        "Saumittra",
+        "Rajarshi",
+        "Soumya",
+        "Abhinav",
+        "Harshit",
+        "Koustav",
+        "Dhabi",
+        "Saikat"
+      ],
+      "logged": true,
+      "result": {
+        "sa": 5,
+        "sb": 6
+      },
+      "availSnapshot": [
+        "Gaurav",
+        "Auno",
+        "Namit",
+        "Shivam",
+        "Vineet",
+        "Hinger",
+        "Gour",
+        "Vivek",
+        "Spandan",
+        "Abhijeet",
+        "Saumittra",
+        "Rajarshi",
+        "Soumya",
+        "Abhinav",
+        "Harshit",
+        "Koustav",
+        "Dhabi",
+        "Saikat"
+      ]
+    }
+  ],
+  "vibeTags": [
+    "🚀 Worldie",
+    "🪄 Nutmeg",
+    "🎯 Assist of the Day",
+    "🕺 Skill Move",
+    "⚡ Pace Merchant",
+    "🫀 Engine of the Team",
+    "🧱 Last-Ditch Hero",
+    "🦁 Battled All Game",
+    "🧤 Great Save",
+    "🥅 Sitter Missed",
+    "😤 Captain Obvious Offside",
+    "🔁 Comeback Goal"
+  ],
+  "avail": [
+    "Gaurav",
+    "Auno",
+    "Namit",
+    "Shivam",
+    "Vineet",
+    "Hinger",
+    "Gour",
+    "Vivek",
+    "Spandan",
+    "Abhijeet",
+    "Saumittra",
+    "Rajarshi",
+    "Soumya",
+    "Abhinav",
+    "Harshit",
+    "Koustav",
+    "Dhabi",
+    "Saikat"
+  ],
+  "_meta": {
+    "published": "1 Jun 2026 21:50"
+  },
+  "v": 5
+}
