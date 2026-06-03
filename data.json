@@ -197,6 +197,28 @@
       "games": 1,
       "streak": 1,
       "status": "active"
+    },
+    {
+      "name": "Mayank",
+      "pos": "FWD",
+      "star": 3,
+      "stamina": "Low",
+      "ability": 60,
+      "form": 0,
+      "games": 0,
+      "streak": 0,
+      "status": "active"
+    },
+    {
+      "name": "Parth",
+      "pos": "MID",
+      "star": 4,
+      "stamina": "High",
+      "ability": 72,
+      "form": 0,
+      "games": 0,
+      "streak": 0,
+      "status": "active"
     }
   ],
   "games": [
@@ -319,7 +341,7 @@
         "Saumittra",
         "Abhinav"
       ],
-      "active": true
+      "active": false
     },
     {
       "type": "same",
@@ -328,7 +350,7 @@
         "Hinger",
         "Shivam"
       ],
-      "active": true
+      "active": false
     }
   ],
   "sessions": [
@@ -404,24 +426,22 @@
     "Gaurav",
     "Auno",
     "Namit",
-    "Shivam",
-    "Vineet",
     "Hinger",
     "Gour",
     "Vivek",
     "Spandan",
     "Abhijeet",
     "Saumittra",
-    "Rajarshi",
     "Soumya",
     "Abhinav",
     "Harshit",
     "Koustav",
     "Dhabi",
-    "Saikat"
+    "Saikat",
+    "Mayank"
   ],
   "_meta": {
-    "published": "1 Jun 2026 21:50"
+    "published": "3 Jun 2026 17:24"
   },
   "v": 5
 }
