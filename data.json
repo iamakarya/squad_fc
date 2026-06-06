@@ -5,10 +5,10 @@
       "pos": "FWD",
       "star": 4,
       "stamina": "Medium",
-      "ability": 72.01285714285714,
-      "form": 0.052882653061224416,
-      "games": 1,
-      "streak": 1,
+      "ability": 72.17266669387755,
+      "form": 1.0760510189504375,
+      "games": 2,
+      "streak": 2,
       "status": "active"
     },
     {
@@ -17,7 +17,7 @@
       "star": 3,
       "stamina": "Low",
       "ability": 59.980714285714285,
-      "form": -0.1605076530612245,
+      "form": -0.08025382653061225,
       "games": 1,
       "streak": 0,
       "status": "active"
@@ -27,10 +27,10 @@
       "pos": "DEF",
       "star": 3,
       "stamina": "Low",
-      "ability": 59.980714285714285,
-      "form": -0.1605076530612245,
-      "games": 1,
-      "streak": 0,
+      "ability": 60.20833902040816,
+      "form": 0.7407489186588921,
+      "games": 2,
+      "streak": 1,
       "status": "active"
     },
     {
@@ -38,10 +38,10 @@
       "pos": "MID",
       "star": 4,
       "stamina": "Low",
-      "ability": 71.89585714285714,
-      "form": -0.8645096938775509,
-      "games": 1,
-      "streak": 0,
+      "ability": 72.40837481632653,
+      "form": 1.6003107074344025,
+      "games": 2,
+      "streak": 1,
       "status": "active"
     },
     {
@@ -49,10 +49,10 @@
       "pos": "DEF",
       "star": 3,
       "stamina": "Low",
-      "ability": 60.28542857142857,
-      "form": 0.2362275510204082,
-      "games": 1,
-      "streak": 1,
+      "ability": 60.265775877551015,
+      "form": -0.021825353790087404,
+      "games": 2,
+      "streak": 0,
       "status": "active"
     },
     {
@@ -60,9 +60,9 @@
       "pos": "MID",
       "star": 4,
       "stamina": "Medium",
-      "ability": 71.97185714285715,
-      "form": -0.6669525510204084,
-      "games": 1,
+      "ability": 71.8678228367347,
+      "form": -1.2637801217930034,
+      "games": 2,
       "streak": 0,
       "status": "active"
     },
@@ -71,10 +71,10 @@
       "pos": "MID",
       "star": 5,
       "stamina": "High",
-      "ability": 86.35942857142857,
-      "form": 5.8705897959183675,
-      "games": 1,
-      "streak": 1,
+      "ability": 87.12037012244897,
+      "form": 6.668484837900875,
+      "games": 2,
+      "streak": 2,
       "status": "active"
     },
     {
@@ -82,10 +82,10 @@
       "pos": "MID",
       "star": 4,
       "stamina": "Medium",
-      "ability": 71.97185714285715,
-      "form": -0.6669525510204084,
-      "games": 1,
-      "streak": 0,
+      "ability": 72.12378853061225,
+      "form": 0.22799240947521865,
+      "games": 2,
+      "streak": 1,
       "status": "active"
     },
     {
@@ -94,7 +94,7 @@
       "star": 3,
       "stamina": "Low",
       "ability": 60.28542857142857,
-      "form": 0.2362275510204082,
+      "form": 0.1181137755102041,
       "games": 1,
       "streak": 1,
       "status": "active"
@@ -104,10 +104,10 @@
       "pos": "MID",
       "star": 4,
       "stamina": "Medium",
-      "ability": 72.66371428571429,
-      "form": 2.310809183673469,
-      "games": 1,
-      "streak": 1,
+      "ability": 72.81030848979593,
+      "form": 1.9925827373177838,
+      "games": 2,
+      "streak": 2,
       "status": "active"
     },
     {
@@ -116,7 +116,7 @@
       "star": 5,
       "stamina": "High",
       "ability": 85.32514285714285,
-      "form": 0.9679448979591837,
+      "form": 0.48397244897959185,
       "games": 1,
       "streak": 1,
       "status": "active"
@@ -127,7 +127,7 @@
       "star": 3,
       "stamina": "Low",
       "ability": 60.28542857142857,
-      "form": 0.2362275510204082,
+      "form": 0.1181137755102041,
       "games": 1,
       "streak": 1,
       "status": "active"
@@ -137,10 +137,10 @@
       "pos": "DEF",
       "star": 4,
       "stamina": "Medium",
-      "ability": 71.96528571428571,
-      "form": -0.2889137755102041,
-      "games": 1,
-      "streak": 0,
+      "ability": 72.1355074367347,
+      "form": 0.5359141550145772,
+      "games": 2,
+      "streak": 1,
       "status": "active"
     },
     {
@@ -148,10 +148,10 @@
       "pos": "FWD",
       "star": 5,
       "stamina": "High",
-      "ability": 85.62971428571429,
-      "form": 3.323408163265306,
-      "games": 1,
-      "streak": 1,
+      "ability": 86.54733224489796,
+      "form": 5.768294956268221,
+      "games": 2,
+      "streak": 2,
       "status": "active"
     },
     {
@@ -160,7 +160,7 @@
       "star": 5,
       "stamina": "High",
       "ability": 85.05142857142857,
-      "form": 0.2126326530612243,
+      "form": 0.10631632653061215,
       "games": 1,
       "streak": 1,
       "status": "active"
@@ -171,7 +171,7 @@
       "star": 4,
       "stamina": "Low",
       "ability": 72.15171428571429,
-      "form": 0.627266326530612,
+      "form": 0.313633163265306,
       "games": 1,
       "streak": 1,
       "status": "active"
@@ -182,7 +182,7 @@
       "star": 4,
       "stamina": "Medium",
       "ability": 72.15171428571429,
-      "form": 0.627266326530612,
+      "form": 0.313633163265306,
       "games": 1,
       "streak": 1,
       "status": "active"
@@ -192,10 +192,10 @@
       "pos": "FWD",
       "star": 4,
       "stamina": "Medium",
-      "ability": 73.09285714285714,
-      "form": 4.495025510204082,
-      "games": 1,
-      "streak": 1,
+      "ability": 73.81166326530612,
+      "form": 5.6535333454810495,
+      "games": 2,
+      "streak": 2,
       "status": "active"
     },
     {
@@ -203,9 +203,9 @@
       "pos": "FWD",
       "star": 3,
       "stamina": "Low",
-      "ability": 60,
-      "form": 0,
-      "games": 0,
+      "ability": 59.90357142857143,
+      "form": -0.7984056122448981,
+      "games": 1,
       "streak": 0,
       "status": "active"
     },
@@ -323,6 +323,124 @@
         "Saikat"
       ],
       "ts": 1780330836517
+    },
+    {
+      "week": "Week 2",
+      "date": "2026-06-06",
+      "sa": 6,
+      "sb": 6,
+      "goals": [
+        {
+          "scorer": "Soumya",
+          "assist": "Saumittra"
+        },
+        {
+          "scorer": "Harshit",
+          "assist": "Namit"
+        },
+        {
+          "scorer": "Spandan",
+          "assist": null
+        },
+        {
+          "scorer": "Harshit",
+          "assist": "Namit"
+        },
+        {
+          "scorer": "Gaurav",
+          "assist": null
+        },
+        {
+          "scorer": "Harshit",
+          "assist": "Abhijeet"
+        },
+        {
+          "scorer": "Namit",
+          "assist": "Abhijeet"
+        },
+        {
+          "scorer": "Namit",
+          "assist": "Abhijeet"
+        },
+        {
+          "scorer": "Spandan",
+          "assist": null
+        }
+      ],
+      "mvpAtk": "Gaurav",
+      "mvpMid": "Vivek",
+      "mvpDef": "Auno",
+      "fatigue": [
+        "Saumittra"
+      ],
+      "arguments": [],
+      "lateArrivals": [
+        "Auno",
+        "Harshit"
+      ],
+      "moments": [
+        {
+          "player": "Gaurav",
+          "tag": "🕺 Skill Move",
+          "note": "Crazy first touch left defender sleeping"
+        },
+        {
+          "player": "Abhijeet",
+          "tag": "💩 Shit show",
+          "note": "Suicide dummy in front of goal"
+        }
+      ],
+      "teamA": [
+        "Vivek",
+        "Saikat",
+        "Guest 1",
+        "Guest 4",
+        "Gaurav",
+        "Guest 2",
+        "Guest 3",
+        "Spandan"
+      ],
+      "teamB": [
+        "Koustav",
+        "Saumittra",
+        "Namit",
+        "Harshit",
+        "Mayank",
+        "Abhijeet",
+        "Soumya",
+        "Auno"
+      ],
+      "guests": [
+        {
+          "name": "Guest 1",
+          "star": 4,
+          "pos": "MID",
+          "ability": 72,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 2",
+          "star": 3,
+          "pos": "MID",
+          "ability": 60,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 3",
+          "star": 3,
+          "pos": "MID",
+          "ability": 60,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 4",
+          "star": 3,
+          "pos": "DEF",
+          "ability": 60,
+          "stamina": "Medium"
+        }
+      ],
+      "ts": 1780716297818
     }
   ],
   "cons": [
@@ -406,6 +524,81 @@
         "Dhabi",
         "Saikat"
       ]
+    },
+    {
+      "id": 1780715469225,
+      "week": "Week 2",
+      "date": "2026-06-06",
+      "sz": 8,
+      "teamA": [
+        "Vivek",
+        "Saikat",
+        "Guest 1",
+        "Guest 4",
+        "Gaurav",
+        "Guest 2",
+        "Guest 3",
+        "Spandan"
+      ],
+      "teamB": [
+        "Koustav",
+        "Saumittra",
+        "Namit",
+        "Harshit",
+        "Mayank",
+        "Abhijeet",
+        "Soumya",
+        "Auno"
+      ],
+      "logged": true,
+      "result": {
+        "sa": 6,
+        "sb": 6
+      },
+      "availSnapshot": [
+        "Gaurav",
+        "Auno",
+        "Namit",
+        "Vivek",
+        "Spandan",
+        "Abhijeet",
+        "Saumittra",
+        "Soumya",
+        "Harshit",
+        "Koustav",
+        "Saikat",
+        "Mayank"
+      ],
+      "guests": [
+        {
+          "name": "Guest 1",
+          "star": 4,
+          "pos": "MID",
+          "ability": 72,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 2",
+          "star": 3,
+          "pos": "MID",
+          "ability": 60,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 3",
+          "star": 3,
+          "pos": "MID",
+          "ability": 60,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 4",
+          "star": 3,
+          "pos": "DEF",
+          "ability": 60,
+          "stamina": "Medium"
+        }
+      ]
     }
   ],
   "vibeTags": [
@@ -420,28 +613,26 @@
     "🧤 Great Save",
     "🥅 Sitter Missed",
     "😤 Captain Obvious Offside",
-    "🔁 Comeback Goal"
+    "🔁 Comeback Goal",
+    "💩Shit show",
+    "💩 Shit show"
   ],
   "avail": [
     "Gaurav",
     "Auno",
     "Namit",
-    "Hinger",
-    "Gour",
     "Vivek",
     "Spandan",
     "Abhijeet",
     "Saumittra",
     "Soumya",
-    "Abhinav",
     "Harshit",
     "Koustav",
-    "Dhabi",
     "Saikat",
     "Mayank"
   ],
   "_meta": {
-    "published": "3 Jun 2026 17:24"
+    "published": "6 Jun 2026 09:07"
   },
   "v": 5
 }
