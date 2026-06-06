@@ -339,31 +339,31 @@
           "assist": "Namit"
         },
         {
-          "scorer": "Spandan",
-          "assist": null
-        },
-        {
           "scorer": "Harshit",
           "assist": "Namit"
         },
         {
-          "scorer": "Gaurav",
-          "assist": null
+          "scorer": "Abhijeet",
+          "assist": "Namit"
+        },
+        {
+          "scorer": "Abhijeet",
+          "assist": "Namit"
         },
         {
           "scorer": "Harshit",
           "assist": "Abhijeet"
         },
         {
-          "scorer": "Namit",
-          "assist": "Abhijeet"
-        },
-        {
-          "scorer": "Namit",
-          "assist": "Abhijeet"
+          "scorer": "Spandan",
+          "assist": null
         },
         {
           "scorer": "Spandan",
+          "assist": null
+        },
+        {
+          "scorer": "Gaurav",
           "assist": null
         }
       ],
@@ -382,54 +382,54 @@
         {
           "player": "Gaurav",
           "tag": "🕺 Skill Move",
-          "note": "Crazy first touch left defender sleeping"
+          "note": "Crazy first touch to leave defender sleeping"
         },
         {
           "player": "Abhijeet",
           "tag": "💩 Shit show",
-          "note": "Suicide dummy in front of goal"
+          "note": "Suicide dummy"
         }
       ],
       "teamA": [
         "Vivek",
         "Saikat",
-        "Guest 1",
-        "Guest 4",
-        "Gaurav",
-        "Guest 2",
         "Guest 3",
-        "Spandan"
+        "Gaurav",
+        "Guest 1",
+        "Spandan",
+        "Guest 4",
+        "Guest 2"
       ],
       "teamB": [
-        "Koustav",
         "Saumittra",
         "Namit",
-        "Harshit",
         "Mayank",
+        "Harshit",
         "Abhijeet",
-        "Soumya",
-        "Auno"
+        "Auno",
+        "Koustav",
+        "Soumya"
       ],
       "guests": [
         {
           "name": "Guest 1",
-          "star": 4,
+          "star": 5,
           "pos": "MID",
-          "ability": 72,
+          "ability": 85,
           "stamina": "Medium"
         },
         {
           "name": "Guest 2",
-          "star": 3,
-          "pos": "MID",
-          "ability": 60,
+          "star": 4,
+          "pos": "DEF",
+          "ability": 72,
           "stamina": "Medium"
         },
         {
           "name": "Guest 3",
-          "star": 3,
-          "pos": "MID",
-          "ability": 60,
+          "star": 4,
+          "pos": "DEF",
+          "ability": 72,
           "stamina": "Medium"
         },
         {
@@ -440,7 +440,7 @@
           "stamina": "Medium"
         }
       ],
-      "ts": 1780716297818
+      "ts": 1780722769674
     }
   ],
   "cons": [
@@ -599,6 +599,81 @@
           "stamina": "Medium"
         }
       ]
+    },
+    {
+      "id": 1780722627568,
+      "week": "Week 2",
+      "date": "2026-06-06",
+      "sz": 8,
+      "teamA": [
+        "Vivek",
+        "Saikat",
+        "Guest 3",
+        "Gaurav",
+        "Guest 1",
+        "Spandan",
+        "Guest 4",
+        "Guest 2"
+      ],
+      "teamB": [
+        "Saumittra",
+        "Namit",
+        "Mayank",
+        "Harshit",
+        "Abhijeet",
+        "Auno",
+        "Koustav",
+        "Soumya"
+      ],
+      "logged": true,
+      "result": {
+        "sa": 6,
+        "sb": 6
+      },
+      "availSnapshot": [
+        "Gaurav",
+        "Auno",
+        "Namit",
+        "Vivek",
+        "Spandan",
+        "Abhijeet",
+        "Saumittra",
+        "Soumya",
+        "Harshit",
+        "Koustav",
+        "Saikat",
+        "Mayank"
+      ],
+      "guests": [
+        {
+          "name": "Guest 1",
+          "star": 5,
+          "pos": "MID",
+          "ability": 85,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 2",
+          "star": 4,
+          "pos": "DEF",
+          "ability": 72,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 3",
+          "star": 4,
+          "pos": "DEF",
+          "ability": 72,
+          "stamina": "Medium"
+        },
+        {
+          "name": "Guest 4",
+          "star": 3,
+          "pos": "DEF",
+          "ability": 60,
+          "stamina": "Medium"
+        }
+      ]
     }
   ],
   "vibeTags": [
@@ -632,7 +707,7 @@
     "Mayank"
   ],
   "_meta": {
-    "published": "6 Jun 2026 09:07"
+    "published": "6 Jun 2026 10:43"
   },
   "v": 5
 }
