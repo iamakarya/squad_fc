@@ -343,14 +343,6 @@
           "assist": "Namit"
         },
         {
-          "scorer": "Abhijeet",
-          "assist": "Namit"
-        },
-        {
-          "scorer": "Abhijeet",
-          "assist": "Namit"
-        },
-        {
           "scorer": "Harshit",
           "assist": "Abhijeet"
         },
@@ -365,6 +357,14 @@
         {
           "scorer": "Gaurav",
           "assist": null
+        },
+        {
+          "scorer": "Namit",
+          "assist": "Abhijeet"
+        },
+        {
+          "scorer": "Namit",
+          "assist": "Abhijeet"
         }
       ],
       "mvpAtk": "Gaurav",
@@ -707,7 +707,7 @@
     "Mayank"
   ],
   "_meta": {
-    "published": "6 Jun 2026 10:43"
+    "published": "6 Jun 2026 10:52"
   },
   "v": 5
 }
