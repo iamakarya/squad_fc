@@ -71,8 +71,8 @@
       "pos": "MID",
       "star": 5,
       "stamina": "High",
-      "ability": 89.74633350541764,
-      "form": 2.4748866169302173,
+      "ability": 89.47633350541764,
+      "form": 2.2835651883587884,
       "games": 6,
       "streak": 6,
       "status": "active"
@@ -104,8 +104,8 @@
       "pos": "MID",
       "star": 4,
       "stamina": "Medium",
-      "ability": 79.3670034423514,
-      "form": 7.696806527814744,
+      "ability": 79.0970034423514,
+      "form": 7.505485099243316,
       "games": 6,
       "streak": 6,
       "status": "active"
@@ -115,8 +115,8 @@
       "pos": "DEF",
       "star": 5,
       "stamina": "High",
-      "ability": 85.85373634026821,
-      "form": 1.441113976368846,
+      "ability": 85.70973634026821,
+      "form": 1.0426568335117035,
       "games": 3,
       "streak": 1,
       "status": "active"
@@ -160,7 +160,7 @@
       "star": 5,
       "stamina": "High",
       "ability": 87.17451071132362,
-      "form": 3.633740495709187,
+      "form": 5.133740495709187,
       "games": 4,
       "streak": 1,
       "status": "active"
@@ -225,8 +225,8 @@
       "pos": "FWD",
       "star": 5,
       "stamina": "High",
-      "ability": 86.53807510204082,
-      "form": 1.7174714868804664,
+      "ability": 86.89807510204082,
+      "form": 3.198185772594752,
       "games": 2,
       "streak": 2,
       "status": "active"
@@ -236,8 +236,8 @@
       "pos": "DEF",
       "star": 5,
       "stamina": "Medium",
-      "ability": 86.56914265030905,
-      "form": 5.942062825539692,
+      "ability": 86.42514265030904,
+      "form": 5.543605682682549,
       "games": 3,
       "streak": 2,
       "status": "active"
@@ -831,7 +831,7 @@
       "week": "Week 6",
       "date": "2026-07-25",
       "sa": 7,
-      "sb": 4,
+      "sb": 6,
       "goals": [
         {
           "scorer": "Shivam",
@@ -876,6 +876,14 @@
         {
           "scorer": "Atul",
           "assist": "Shivam"
+        },
+        {
+          "scorer": "Atul",
+          "assist": "Shivam"
+        },
+        {
+          "scorer": "Guest 2",
+          "assist": null
         }
       ],
       "mvpAtk": "Sikarwar",
@@ -1468,7 +1476,7 @@
     "Surya"
   ],
   "_meta": {
-    "published": "25 Jul 2026 09:01"
+    "published": "25 Jul 2026 09:15"
   },
   "v": 5
 }
