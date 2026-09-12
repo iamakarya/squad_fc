@@ -5,10 +5,10 @@
       "pos": "FWD",
       "star": 4,
       "stamina": "Medium",
-      "ability": 87.94837768877622,
-      "form": 5.199194052386988,
-      "games": 12,
-      "streak": 12,
+      "ability": 89.9276523359245,
+      "form": 5.212677913436237,
+      "games": 13,
+      "streak": 13,
       "status": "active"
     },
     {
@@ -17,7 +17,7 @@
       "star": 3,
       "stamina": "Low",
       "ability": 61.03031587755102,
-      "form": 4.228152568144702,
+      "form": 2.114076284072351,
       "games": 2,
       "streak": 1,
       "status": "active"
@@ -28,7 +28,7 @@
       "star": 3,
       "stamina": "Low",
       "ability": 69.47238459923192,
-      "form": 2.244402659344016,
+      "form": 1.122201329672008,
       "games": 9,
       "streak": 8,
       "status": "active"
@@ -38,10 +38,10 @@
       "pos": "MID",
       "star": 4,
       "stamina": "Low",
-      "ability": 79.80477011323738,
-      "form": 3.493639163233036,
-      "games": 6,
-      "streak": 5,
+      "ability": 79.56915268714545,
+      "form": 0.9850321615672892,
+      "games": 7,
+      "streak": 6,
       "status": "active"
     },
     {
@@ -49,10 +49,10 @@
       "pos": "DEF",
       "star": 3,
       "stamina": "Low",
-      "ability": 69.3487386486146,
-      "form": 1.4135159521156628,
-      "games": 12,
-      "streak": 10,
+      "ability": 70.46394724021724,
+      "form": 2.075281565124213,
+      "games": 13,
+      "streak": 11,
       "status": "active"
     },
     {
@@ -61,7 +61,7 @@
       "star": 4,
       "stamina": "Medium",
       "ability": 74.11050178383312,
-      "form": -1.3234143916135905,
+      "form": -0.6617071958067953,
       "games": 12,
       "streak": 0,
       "status": "active"
@@ -72,9 +72,9 @@
       "star": 5,
       "stamina": "High",
       "ability": 95,
-      "form": 5.61755674434261,
-      "games": 12,
-      "streak": 12,
+      "form": 4.763391189462709,
+      "games": 13,
+      "streak": 13,
       "status": "active"
     },
     {
@@ -83,7 +83,7 @@
       "star": 4,
       "stamina": "Medium",
       "ability": 77.91551400062029,
-      "form": 2.8384588551579593,
+      "form": 1.4192294275789796,
       "games": 6,
       "streak": 5,
       "status": "active"
@@ -94,7 +94,7 @@
       "star": 3,
       "stamina": "Low",
       "ability": 60.28542857142857,
-      "form": 0.0001153454838966837,
+      "form": 0.00005767274194834185,
       "games": 1,
       "streak": 1,
       "status": "active"
@@ -105,7 +105,7 @@
       "star": 4,
       "stamina": "Medium",
       "ability": 82.40661698419927,
-      "form": 1.591233660018016,
+      "form": 0.795616830009008,
       "games": 10,
       "streak": 10,
       "status": "active"
@@ -115,10 +115,10 @@
       "pos": "DEF",
       "star": 5,
       "stamina": "High",
-      "ability": 91.71161416590438,
-      "form": 2.3575805608887066,
-      "games": 7,
-      "streak": 5,
+      "ability": 91.9361807435903,
+      "form": 0.9116606857090421,
+      "games": 8,
+      "streak": 6,
       "status": "active"
     },
     {
@@ -126,10 +126,10 @@
       "pos": "DEF",
       "star": 3,
       "stamina": "Low",
-      "ability": 64.87976457081577,
-      "form": 1.488952634145118,
-      "games": 7,
-      "streak": 4,
+      "ability": 66.53775602276394,
+      "form": 1.6626099088145998,
+      "games": 8,
+      "streak": 5,
       "status": "active"
     },
     {
@@ -138,7 +138,7 @@
       "star": 4,
       "stamina": "Medium",
       "ability": 78.50196512083087,
-      "form": 2.79576972855377,
+      "form": 1.397884864276885,
       "games": 6,
       "streak": 5,
       "status": "active"
@@ -149,9 +149,9 @@
       "star": 5,
       "stamina": "High",
       "ability": 95,
-      "form": 7.321428571428571,
-      "games": 10,
-      "streak": 10,
+      "form": 4.7142857142857135,
+      "games": 11,
+      "streak": 11,
       "status": "active"
     },
     {
@@ -159,10 +159,10 @@
       "pos": "MID",
       "star": 5,
       "stamina": "High",
-      "ability": 89.78137628273817,
-      "form": -0.7132041644821455,
-      "games": 8,
-      "streak": 0,
+      "ability": 91.78137628273817,
+      "form": 9.568390406508414,
+      "games": 9,
+      "streak": 1,
       "status": "active"
     },
     {
@@ -171,7 +171,7 @@
       "star": 4,
       "stamina": "Low",
       "ability": 76.02969287097608,
-      "form": -0.3693244637846944,
+      "form": -0.1846622318923472,
       "games": 6,
       "streak": 0,
       "status": "active"
@@ -182,7 +182,7 @@
       "star": 4,
       "stamina": "Medium",
       "ability": 75.051281852817,
-      "form": 0.6184909425250341,
+      "form": 0.30924547126251706,
       "games": 4,
       "streak": 4,
       "status": "active"
@@ -193,7 +193,7 @@
       "star": 4,
       "stamina": "Medium",
       "ability": 73.69256500840795,
-      "form": -0.18081760729860627,
+      "form": -0.09040880364930313,
       "games": 4,
       "streak": 0,
       "status": "active"
@@ -204,7 +204,7 @@
       "star": 3,
       "stamina": "Low",
       "ability": 59.90357142857143,
-      "form": -0.0007796929807079083,
+      "form": -0.00038984649035395417,
       "games": 1,
       "streak": 0,
       "status": "active"
@@ -225,10 +225,10 @@
       "pos": "FWD",
       "star": 5,
       "stamina": "High",
-      "ability": 89.79938556501457,
-      "form": 1.25,
-      "games": 4,
-      "streak": 4,
+      "ability": 91.79938556501457,
+      "form": 9.742890059017077,
+      "games": 5,
+      "streak": 5,
       "status": "active"
     },
     {
@@ -237,9 +237,9 @@
       "star": 5,
       "stamina": "Medium",
       "ability": 95,
-      "form": 7.364285714285714,
-      "games": 8,
-      "streak": 7,
+      "form": 6.882857142857143,
+      "games": 9,
+      "streak": 8,
       "status": "active"
     },
     {
@@ -248,7 +248,7 @@
       "star": 3,
       "stamina": "Medium",
       "ability": 64.9424190375965,
-      "form": 2.136216469267703,
+      "form": 1.0681082346338515,
       "games": 5,
       "streak": 3,
       "status": "active"
@@ -258,10 +258,10 @@
       "pos": "FWD",
       "star": 3,
       "stamina": "Low",
-      "ability": 60.527142857142856,
-      "form": 1.0840943877551021,
-      "games": 1,
-      "streak": 1,
+      "ability": 61.047508163265306,
+      "form": 2.790768695335277,
+      "games": 2,
+      "streak": 2,
       "status": "active"
     },
     {
@@ -270,7 +270,7 @@
       "star": 3,
       "stamina": "Medium",
       "ability": 60.278686938775515,
-      "form": 0.3149024096209911,
+      "form": 0.15745120481049554,
       "games": 2,
       "streak": 2,
       "status": "active"
@@ -1579,6 +1579,113 @@
         }
       ],
       "ts": 1788593307014
+    },
+    {
+      "week": "Week 13",
+      "date": "2026-09-12",
+      "sa": 9,
+      "sb": 7,
+      "goals": [
+        {
+          "scorer": "Kawal",
+          "assist": "Namit"
+        },
+        {
+          "scorer": "Atul",
+          "assist": null
+        },
+        {
+          "scorer": "Abhijeet",
+          "assist": "Gaurav"
+        },
+        {
+          "scorer": "Koustav",
+          "assist": "Gaurav"
+        },
+        {
+          "scorer": "Atul",
+          "assist": "Shivam"
+        },
+        {
+          "scorer": "Atul",
+          "assist": null
+        },
+        {
+          "scorer": "Atul",
+          "assist": "Shivam"
+        },
+        {
+          "scorer": "Atul",
+          "assist": "Shivam"
+        },
+        {
+          "scorer": "Abhijeet",
+          "assist": null
+        },
+        {
+          "scorer": "Kawal",
+          "assist": "Sikarwar"
+        },
+        {
+          "scorer": "Gaurav",
+          "assist": null
+        },
+        {
+          "scorer": "Atul",
+          "assist": "Shivam"
+        },
+        {
+          "scorer": "Namit",
+          "assist": "Sikarwar"
+        },
+        {
+          "scorer": "Atul",
+          "assist": "Shivam"
+        },
+        {
+          "scorer": "Shivam",
+          "assist": null
+        },
+        {
+          "scorer": "Guest 1",
+          "assist": "Shivam"
+        }
+      ],
+      "mvpAtk": "Atul",
+      "mvpMid": "Shivam",
+      "mvpDef": "Dhabi",
+      "fatigue": [
+        "Kawal"
+      ],
+      "arguments": [],
+      "lateArrivals": [],
+      "moments": [],
+      "teamA": [
+        "Spandan",
+        "Abhinav",
+        "Atul",
+        "Guest 1",
+        "Shivam",
+        "Dhabi"
+      ],
+      "teamB": [
+        "Gaurav",
+        "Abhijeet",
+        "Namit",
+        "Kawal",
+        "Koustav",
+        "Sikarwar"
+      ],
+      "guests": [
+        {
+          "name": "Guest 1",
+          "star": 4,
+          "pos": "MID",
+          "ability": 72,
+          "stamina": "Medium"
+        }
+      ],
+      "ts": 1789184268807
     }
   ],
   "cons": [
@@ -2417,6 +2524,55 @@
           "stamina": "Medium"
         }
       ]
+    },
+    {
+      "id": 1789183989855,
+      "week": "Week 13",
+      "date": "2026-09-12",
+      "sz": 6,
+      "teamA": [
+        "Spandan",
+        "Abhinav",
+        "Atul",
+        "Guest 1",
+        "Shivam",
+        "Dhabi"
+      ],
+      "teamB": [
+        "Gaurav",
+        "Abhijeet",
+        "Namit",
+        "Kawal",
+        "Koustav",
+        "Sikarwar"
+      ],
+      "logged": true,
+      "result": {
+        "sa": 9,
+        "sb": 7
+      },
+      "availSnapshot": [
+        "Koustav",
+        "Sikarwar",
+        "Gaurav",
+        "Dhabi",
+        "Namit",
+        "Abhijeet",
+        "Abhinav",
+        "Shivam",
+        "Spandan",
+        "Atul",
+        "Kawal"
+      ],
+      "guests": [
+        {
+          "name": "Guest 1",
+          "star": 4,
+          "pos": "MID",
+          "ability": 72,
+          "stamina": "Medium"
+        }
+      ]
     }
   ],
   "vibeTags": [
@@ -2438,19 +2594,18 @@
   "avail": [
     "Koustav",
     "Sikarwar",
-    "Praneeth",
-    "Saikat",
     "Gaurav",
     "Dhabi",
     "Namit",
     "Abhijeet",
-    "Gour",
     "Abhinav",
     "Shivam",
-    "Vineet"
+    "Spandan",
+    "Atul",
+    "Kawal"
   ],
   "_meta": {
-    "published": "5 Sep 2026 12:58"
+    "published": "12 Sep 2026 09:12"
   },
   "v": 5
 }
